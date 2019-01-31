@@ -1,2 +1,3 @@
-# CountDownDate
-Learning React Exercise
+#countdownChamp
+
+This application introduces React and es6.
